@@ -1,27 +1,27 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Beach, Skiing, Football, Book } from "lucide-react";
+import { Waves, Mountain, Trophy, BookOpen } from "lucide-react";
 
 const Hobbies = () => {
   const hobbies = [
     {
       name: "Surfing",
-      icon: Beach,
+      icon: Waves,
       description: "Catching waves and experiencing the thrill of riding the ocean. I enjoy surfing during my free time at various beaches around the world."
     },
     {
       name: "Skiing",
-      icon: Skiing,
+      icon: Mountain,
       description: "Gliding down snow-covered slopes, enjoying winter sports and the beautiful mountain scenery. I try to go skiing at least once a year."
     },
     {
       name: "Football",
-      icon: Football,
+      icon: Trophy,
       description: "Playing and watching football games. I'm part of a local team and we practice regularly to improve our skills and teamwork."
     },
     {
       name: "Reading",
-      icon: Book,
+      icon: BookOpen,
       description: "Exploring new worlds and gaining knowledge through books. I particularly enjoy technical literature, science fiction, and personal development books."
     }
   ];
