@@ -13,9 +13,11 @@ const About = () => {
             <Card className="border border-muted">
               <CardContent className="pt-6">
                 <p className="leading-relaxed">
-                  Certified Azure professional with strong expertise in Observability, Cloud Infrastructure, and Automation. 
-                  Skilled in building scalable systems, maintaining robust monitoring solutions, and collaborating cross-functionally 
-                  to deliver high-performing cloud-native applications.
+                  Recent Computer Science and Engineering graduate with a strong learning mindset and 
+                  growing expertise in Azure cloud technologies. Committed to continuous skill development 
+                  and passionate about cloud infrastructure innovation. Actively pursuing advanced Azure 
+                  certifications while applying practical knowledge gained through hands-on projects and 
+                  self-directed learning.
                 </p>
               </CardContent>
             </Card>
